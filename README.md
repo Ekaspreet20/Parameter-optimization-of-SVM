@@ -6,17 +6,17 @@ SVM(support vector machine) is a supervised machine learning algorithm that help
 
 SVM also has some hyper-parameters (Optimal kernel, C or gamma values to use) and finding optimal hyper-parameter is a very hard task to solve. But it can be found by just trying all combinations and see what parameters work best
 
-#DATA ANALYTICS
+<h1>DATA ANALYTICS</h1><br />
 We performed our observations on a nursery dataset from UCI dataset https://archive.ics.uci.edu/ml/datasets/Nursery 
 Each attribute of Nursery dataset is categorical.
 Label encoding was performed to modify the dataset.
 It contains no NA values:
 <img width="186" alt="image" src="https://user-images.githubusercontent.com/65918628/232877658-05e9c531-1c56-4f21-96c3-5997460aa252.png">
-
+<br />
 No of rows : 12959
 No of attributes : 8+1(target)
 
-#Class Distribution (number of instances per class)
+<h2>Class Distribution (number of instances per class)</h2><br />
 
    class         N         
    --------------------
@@ -26,7 +26,7 @@ No of attributes : 8+1(target)
    priority     4266   
    spec_prior   4044   
 
-# The Best parameters for 10 different samples is as shown below :
+<h3>The Best parameters for 10 different samples is as shown below :<h3><br />
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/65918628/232796514-2beed153-3587-4f67-8c23-e52d88f478b7.png">
 
