@@ -30,7 +30,6 @@ Class Distribution (number of instances per class)<br />
 
 <h3>The Best parameters for 10 different samples is as shown below :<h3><br />
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/65918628/232796514-2beed153-3587-4f67-8c23-e52d88f478b7.png">
 
 
 Sample4 performed with best accuracy here.
