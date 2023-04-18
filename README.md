@@ -10,13 +10,14 @@ SVM also has some hyper-parameters (Optimal kernel, C or gamma values to use) an
 We performed our observations on a nursery dataset from UCI dataset https://archive.ics.uci.edu/ml/datasets/Nursery 
 Each attribute of Nursery dataset is categorical.
 Label encoding was performed to modify the dataset.
-It contains no NA values:
+It contains no NA values:<br />
+
 <img width="186" alt="image" src="https://user-images.githubusercontent.com/65918628/232877658-05e9c531-1c56-4f21-96c3-5997460aa252.png">
 <br />
 No of rows : 12959
 No of attributes : 8+1(target)
 
-<h2>Class Distribution (number of instances per class)</h2><br />
+Class Distribution (number of instances per class)<br />
 
    class         N         
    --------------------
