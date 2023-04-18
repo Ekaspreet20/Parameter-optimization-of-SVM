@@ -19,13 +19,14 @@ No of attributes : 8+1(target)
 
 Class Distribution (number of instances per class)<br />
 
-   class         N         
    --------------------
    not_recom    4320   
    recommend       2   
    very_recom    328   
    priority     4266   
    spec_prior   4044   
+
+<br/>
 
 <h3>The Best parameters for 10 different samples is as shown below :<h3><br />
 
