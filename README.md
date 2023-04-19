@@ -16,10 +16,10 @@ It contains no NA values:<br />
 <br />
 No of rows : 12959
 No of attributes : 8+1(target)
+<br />
 
 Class Distribution (number of instances per class)<br />
 
-   --------------------
    not_recom    4320   
    recommend       2   
    very_recom    328   
@@ -29,10 +29,13 @@ Class Distribution (number of instances per class)<br />
 <br/>
 
 <h3>The Best parameters for 10 different samples is as shown below :<h3><br />
+<img width="363" alt="image" src="https://user-images.githubusercontent.com/65918628/233064119-c6d5c2a6-4dc1-499f-a90c-48a678726a5b.png">
 
+<br />
 
+Sample8 performed with best accuracy here.<br />
+<h4>Convergence graph for accuracy of sample 8</h4><br />
 
-Sample4 performed with best accuracy here.
 
 The convergence graph for Sample 4 :
 
