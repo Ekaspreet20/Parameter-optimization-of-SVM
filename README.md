@@ -11,7 +11,9 @@ We performed our observations on a nursery dataset from UCI dataset https://arch
 Each attribute of Nursery dataset is categorical.
 Label encoding was performed to modify the dataset.
 It contains no NA values:
+
 <img width="186" alt="image" src="https://user-images.githubusercontent.com/65918628/232877658-05e9c531-1c56-4f21-96c3-5997460aa252.png">
+
 
       No of rows : 12959
       No of attributes : 8+1(target)
@@ -26,6 +28,7 @@ It contains no NA values:
 
 <br/>
 On our entire dataset we made 10 samples and by splitting them into 70:30 train test ratio,The best accuracy for all was recorded.
+<br/>
 # The Best parameters for 10 different samples is as shown below :
 <img width="363" alt="image" src="https://user-images.githubusercontent.com/65918628/233064119-c6d5c2a6-4dc1-499f-a90c-48a678726a5b.png">
 
