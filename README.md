@@ -29,7 +29,7 @@ It contains no NA values:
 <br/>
 On our entire dataset we made 10 samples and by splitting them into 70:30 train test ratio,The best accuracy for all was recorded.
 <br/>
-# The Best parameters for 10 different samples is as shown below :
+## The Best parameters for 10 different samples is as shown below :
 <img width="363" alt="image" src="https://user-images.githubusercontent.com/65918628/233064119-c6d5c2a6-4dc1-499f-a90c-48a678726a5b.png">
 
 
