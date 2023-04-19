@@ -4,7 +4,7 @@ Multiclass Classification is the type of classification in which the machine lea
 
 SVM(support vector machine) is a supervised machine learning algorithm that helps in both classification and regression problem statements. It tries to find an optimal boundary (known as hyperplane) between different classes. In other words, SVM performs complex data transformations depending on the selected kernel function and aims to maximize the separation boundaries between your data points.
 
-SVM also has some hyper-parameters (Optimal kernel, C or gamma values to use) and finding optimal hyper-parameter is a very hard task to solve. But it can be found by just trying all combinations and see what parameters work best
+SVM also has some hyper-parameters (Optimal kernel, nu(marked as C in the code [0,1] or gamma values to use) and finding optimal hyper-parameter is a very hard task to solve. But it can be found by just trying all combinations and see what parameters work best
 
 # DATA ANALYTICS
 We performed our observations on a nursery dataset from UCI dataset https://archive.ics.uci.edu/ml/datasets/Nursery 
