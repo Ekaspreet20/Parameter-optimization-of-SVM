@@ -6,37 +6,36 @@ SVM(support vector machine) is a supervised machine learning algorithm that help
 
 SVM also has some hyper-parameters (Optimal kernel, C or gamma values to use) and finding optimal hyper-parameter is a very hard task to solve. But it can be found by just trying all combinations and see what parameters work best
 
-<h1>DATA ANALYTICS</h1><br />
+# DATA ANALYTICS
 We performed our observations on a nursery dataset from UCI dataset https://archive.ics.uci.edu/ml/datasets/Nursery 
 Each attribute of Nursery dataset is categorical.
 Label encoding was performed to modify the dataset.
-It contains no NA values:<br />
-
+It contains no NA values:
 <img width="186" alt="image" src="https://user-images.githubusercontent.com/65918628/232877658-05e9c531-1c56-4f21-96c3-5997460aa252.png">
-<br />
-No of rows : 12959
-No of attributes : 8+1(target)
-<br />
 
-Class Distribution (number of instances per class)<br />
+      No of rows : 12959
+      No of attributes : 8+1(target)
 
-   not_recom    4320   
-   recommend       2   
-   very_recom    328   
-   priority     4266   
-   spec_prior   4044   
+      Class Distribution (number of instances per class)
+
+      not_recom    4320   
+      recommend       2   
+      very_recom    328   
+      priority     4266   
+      spec_prior   4044   
 
 <br/>
-
-<h3>The Best parameters for 10 different samples is as shown below :<h3><br />
+On our entire dataset we made 10 samples and by splitting them into 70:30 train test ratio,The best accuracy for all was recorded.
+# The Best parameters for 10 different samples is as shown below :
 <img width="363" alt="image" src="https://user-images.githubusercontent.com/65918628/233064119-c6d5c2a6-4dc1-499f-a90c-48a678726a5b.png">
 
-<br />
 
-Sample8 performed with best accuracy here.<br />
-<h4>Convergence graph for accuracy of sample 8</h4><br />
+Sample 6 and 8 performed with best accuracy here.
+   
+# Convergence graph for accuracy of sample 6 
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/65918628/233078814-af690d27-0925-4ba8-a0a7-77c8959b3396.png">
 
 
-The convergence graph for Sample 4 :
+
 
 
